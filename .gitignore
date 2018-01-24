@@ -5,7 +5,6 @@
 !.gitignore
 !README.md
 !LICENSE.txt
-!*.png
-!*.jpeg
-!*.jpg
-!emojis/
+!emojis/*.png
+!emojis/*.jpeg
+!emojis/*.jpg
