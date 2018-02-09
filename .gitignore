@@ -1,10 +1,8 @@
 # Ignore all files
 *
 
-# Except: 
+# Except:
 !.gitignore
 !README.md
 !LICENSE.txt
 !emojis/*.png
-!emojis/*.jpeg
-!emojis/*.jpg
